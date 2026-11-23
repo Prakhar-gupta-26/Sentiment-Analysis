@@ -2,7 +2,7 @@
 
 Step 1: Clone the repository
 ```
-git : 
+git : https://github.com/Prakhar-gupta-26/Sentiment-Analysis
 ```
 
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
